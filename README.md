@@ -17,8 +17,9 @@ print(f"The volume of the sphere is: {volume}")
 
 ## License
 
-See [License](./LICENSE.md) file.
- 
+See [License](LICENSE.md) file.
+
 ## Package Guidelines
 
-See [Contributing](./CONTRIBUTING.md) file.
+See [Contributing](CONTRIBUTING.md) file.
+
